@@ -124,7 +124,3 @@ python main.py
 ## 📌 Conclusion
 
 Autoencoders are powerful tools for unsupervised learning. Convolutional autoencoders outperform vanilla models for image data, while denoising autoencoders effectively restore corrupted inputs.
-
-
-Student Assignment Submission
-
